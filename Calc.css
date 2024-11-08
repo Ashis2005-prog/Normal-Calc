@@ -1,0 +1,22 @@
+#Calc{
+    border: 1px solid rgb(105, 105, 105);
+    width: 500px;
+}
+#dispaly{
+    border: 1px solid rgb(29, 28, 28);
+    width: 85%;
+    margin: 10px;
+}
+#display_screen{
+    display:flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.btn{
+    height: 100px;
+    width: 100px;
+    margin:3px;
+}
+#box{
+    margin: 0 87px;
+}
